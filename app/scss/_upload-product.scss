@@ -39,7 +39,7 @@
     input{
         display: inline-block;
         width: 100%;
-        &[type='text'],{
+        &[type='text']{
             border: 1px solid $border;
             height: 40px;
             padding-left: 17px;
